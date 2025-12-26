@@ -31,8 +31,8 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset.
 
 ## LIVE DEMO :
 Click 'generate' to get the results.
+ https://aniani123-customer-purchase-analysis.hf.space/
 
-https://aniani123-customer-purchase-analysis.hf.space/
 
 
 
