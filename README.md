@@ -11,9 +11,9 @@ I loaded and cleaned the dataset,removed missing and null or invalid values.
 - Visualize data using Correlation Matrix and PairPlots
 
 ## DATASET :
-The project uses the Online Retail Dataset .It was downloaded from kaggle and is originally from UCI Machine Learning Repository.It contains customer purchase records such as quntity, price and cutomer Id etc . Due to its large size , it has not been uploaded to GitHub.
-Here is the original source of dataset:
-https://archive.ics.uci.edu/ml/datasets/online+retail
+The project uses the Online Retail Dataset .It was downloaded from kaggle .It contains customer purchase records such as quntity, price and cutomer Id etc  . Due to its large size , it has not been uploaded to GitHub.
+Here is the  source of dataset:
+https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset.
 
 ## TOOLS USED :
 - Python
@@ -31,4 +31,5 @@ https://archive.ics.uci.edu/ml/datasets/online+retail
 
 ## LIVE DEMO :
 https://aniani123-customer-purchase-analysis.hf.space/
+
 
